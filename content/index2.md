@@ -1,9 +1,9 @@
-# あいうえお
+---
+key: "value"
+file_path: "content/index2.md"
+title: ""
+tags: ""
+last_pushed: ""
+---
 
-いなりめぐる
-
-![index2_1.png](./images/index2_1.png)
-
-- ほげほげ
-
-- もあもげ
+あああああ
