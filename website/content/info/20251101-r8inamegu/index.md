@@ -1,5 +1,4 @@
 ---
-キー: "値"
 file_path: "website/content/info/20251101-r8inamegu/index.md"
 title: "令和8年 第37回 羽田七福いなりめぐり 開催のお知らせ"
 subtitle: ""
@@ -10,8 +9,8 @@ tags:
   - "お知らせ"
   - "イベント"
 categories: "info"
-date: "2025-11-01 10:00:00"
-draft: "false"
+date: "2025-11-01T01:00:00.000Z"
+draft: false
 ---
 
 ## 開催概要
